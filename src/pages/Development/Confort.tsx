@@ -200,34 +200,7 @@ const Confort: React.FC<Props> = ({ url }) => {
 					notorios a primera vista, pero serán cosechados conforme avance el tiempo y descubras
 					nuevas cosas.
 				</p>
-				<ul>
-					<li>
-						<strong>Permite desarrollar nuevas habilidades, amistades y ponerse a prueba. </strong>
-						Salir de nuestra zona de confort también es un reto, que si logramos superar también
-						obtendremos nuevas habilidades, conocimientos, amistades, experiencias, entre muchas
-						otras cosas.
-					</li>
-					<li>
-						<strong>Ayuda a prepararte frente a las dificultades. </strong>
-						Aprendemos miles de herramientas para hacer frente a imprevistos que surjan.
-					</li>
-					<li>
-						<strong>Aumenta la seguridad en nosotros mismos. </strong>
-						Cuando uno se enfrenta a un reto y lo supera cree un poco más en sí mismo, adquiere
-						valentía y seguridad para dar el siguiente paso e ir creciendo.
-					</li>
-					<li>
-						<strong>Estimula nuestro afán de superación. </strong>
-						Cuando conseguimos salir y ampliar nuestra zona de confort la satisfacción personal es
-						muy grande y eso nos hace ir a más y crecer como personas.
-					</li>
-					<li>
-						<strong>Fomenta el crecimiento personal. </strong>
-						Cuando nos damos cuenta de que somos capaces de lograr lo que nos daba miedo, resulta
-						una aportación muy valiosa a nuestra personalidad. La carga de experiencias nos acompaña
-						en nuestro camino para explorar más allá de nuestra nueva zona de confort.
-					</li>
-				</ul>
+				
 			</section>
 			<section>
 				<Title h={2}>El orden y el caos</Title>
@@ -260,7 +233,7 @@ const Confort: React.FC<Props> = ({ url }) => {
 					la virtud.
 				</p>
 				<p>
-					No es bueno es tar más del lado del caos que del orden, si es así, tienes que ordenar tu
+					No es bueno estar más del lado del caos que del orden, si es así, tienes que ordenar tu
 					caos, o si estás más del lado del orden tienes que salir de tu zona de confort y de tu
 					zona de miedo, para que puedas crecer como persona, es muy importante crear este balance,
 					existe gente que se encuentra
